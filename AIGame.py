@@ -1,7 +1,7 @@
-#Author_name: StephenCurry
+#Author_name: StephenShawn
 #Author_Email: stepfencurryxiao@gmail.com
 #FaceBook: https://www.facebook.com/xiao.stepfencurry.3
-#Github: https://github.com/stepfencurryxiao/Cross-Fire/blob/master/AIGame/AIGame.py
+#Github: https://github.com/StepfenShawn/Cross-fire/blob/master/AIGame.py
 #Edition: v2.3
 #Last update: 2019.8.23
 
